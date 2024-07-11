@@ -171,6 +171,15 @@
         <type>Phone</type>
     </fields>
     <fields>
+        <fullName>Amount__c</fullName>
+        <label>Amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
         <fullName>Field_One__c</fullName>
         <defaultValue>false</defaultValue>
         <label>Field One</label>
